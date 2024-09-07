@@ -1,4 +1,4 @@
-# telnet-root on TP-Link Archer AX1500
+# telnet-root
 
 ### Downgrading firmware
 You need to downgrade from your version of firmware(now it's 1.3.9) to 1.3.1.
