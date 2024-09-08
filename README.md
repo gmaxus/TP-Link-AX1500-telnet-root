@@ -4,7 +4,7 @@
 
 ### Downgrading firmware
 
-<img src="https://raw.github.com/gmaxus/TP-Link-Archer-AX1500-telnet-root/main/img/firmware.png" width=50% height=50%>
+<img src="https://raw.github.com/gmaxus/TP-Link-Archer-AX1500-telnet-root/main/img/firmware.jpeg" width=50% height=50%>
 
 You need to downgrade from your version of firmware(now it's 1.3.9) to 1.3.1.
 Step by step. It's means that if you have 1.3.9 now, you need upload 1.3.8 to your router, then 1.3.4 and 1.3.1.
