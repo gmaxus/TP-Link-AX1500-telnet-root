@@ -9,7 +9,7 @@ Look CVE-2022-30075 folder.
 
 You mey download your config from router and manualy correct ArcherAX1500v120220401131n/ori-backup-user-config.xml file.
 ```text
-python3 tplink.py -t 192.168.1.1 -p password -b
+python3 tplink.py -t 192.168.0.1 -p password -b
 ```
 
 Or
