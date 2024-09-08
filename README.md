@@ -1,6 +1,6 @@
 # Telnet-root on TP-Link Archer AX1500
 
-<img src="https://raw.github.com/gmaxus/TP-Link-Archer-AX1500-telnet-root/main/img/router.jpeg" width=50% height=50%>
+<img src="https://raw.github.com/gmaxus/TP-Link-Archer-AX1500-telnet-root/main/img/router.jpeg" width=70% height=70%>
 
 ### Downgrading firmware
 
@@ -36,7 +36,7 @@ Password for admin is "3plex4you".
 ```text
 telnet 192.168.0.1
 ```
-<img src="https://raw.github.com/gmaxus/TP-Link-Archer-AX1500-telnet-root/main/img/telnet.jpeg" width=50% height=50%>
+<img src="https://raw.github.com/gmaxus/TP-Link-Archer-AX1500-telnet-root/main/img/telnet.jpeg" width=70% height=70%>
 
 # LINKS
 https://github.com/aaronsvk/CVE-2022-30075
