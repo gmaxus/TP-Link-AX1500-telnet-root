@@ -1,4 +1,6 @@
-# telnet-root on TP-Link Archer AX1500
+# Telnet-root on TP-Link Archer AX1500
+
+<img src="https://raw.github.com/gmaxus/TP-Link-Archer-AX1500-telnet-root/main/img/router.jpeg" width=50% height=50%>
 
 ### Downgrading firmware
 You need to downgrade from your version of firmware(now it's 1.3.9) to 1.3.1.
@@ -31,3 +33,5 @@ Password for admin is "3plex4you".
 ```text
 telnet 192.168.0.1
 ```
+
+# LINKS
