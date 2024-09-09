@@ -12,16 +12,16 @@ Step by step. It's means that if you have 1.3.9 now, you need upload 1.3.8 to yo
 ### Gettin telnet-root
 Look CVE-2022-30075 folder.
 
-You mey download your config from router and manualy correct ArcherAX1500v120220401131n/ori-backup-user-config.xml file.
+Upload config that activates telnet
 ```text
-python3 tplink.py -t 192.168.0.1 -p password -b
+python3 tplink.py -t 192.168.0.1 -p password -r ./ArcherAX1500v120220401131n
 ```
 
 Or
 
-Upload config that activates telnet
+Download your config from router and manualy correct ArcherAX1500v120220401131n/ori-backup-user-config.xml file.
 ```text
-python3 tplink.py -t 192.168.0.1 -p password -r ./ArcherAX1500v120220401131n
+python3 tplink.py -t 192.168.0.1 -p password -b
 ```
 
 Wait until router will reboot.
