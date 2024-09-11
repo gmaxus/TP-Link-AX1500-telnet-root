@@ -1,4 +1,4 @@
-# Telnet-root on TP-Link Archer AX1500
+# Telnet-root on TP-Link Archer AX10 (AX1500)
 
 <img src="https://raw.github.com/gmaxus/TP-Link-Archer-AX1500-telnet-root/main/img/router.jpeg" width=70% height=70%>
 
