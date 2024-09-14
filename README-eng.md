@@ -1,4 +1,4 @@
-# Telnet-root on TP-Link Archer AX10 (AX1500)
+# Telnet-root on TP-Link Archer V.1 AX10 (AX1500)
 
 <img src="https://raw.github.com/gmaxus/TP-Link-Archer-AX1500-telnet-root/main/img/router.jpeg" width=70% height=70%>
 
@@ -10,7 +10,7 @@ You need to downgrade from your version of firmware(now it's 1.3.9) to 1.3.1.
 Step by step. It's means that if you have 1.3.9 now, you need upload 1.3.8 to your router, then 1.3.4 and 1.3.1.
 
 ### Gettin telnet-root
-Look CVE-2022-30075 folder.
+Look at "root" folder.
 
 Upload config that activates telnet
 ```text
