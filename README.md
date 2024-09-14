@@ -36,14 +36,13 @@ python3 tplink.py -t 192.168.0.1 -p password -r ./ArcherAX1500v120220401131n
 
 Пароль для сети будет "password".
 
-Пароль для доступа к роутера будет "3plex4you".
+Пароль для доступа к роутеру будет "3plex4you".
 
 #### Подключение
 ```text
 telnet 192.168.0.1
 ```
 <img src="https://raw.github.com/gmaxus/TP-Link-Archer-AX1500-telnet-root/main/img/telnet.jpeg" width=70% height=70%>
-
 
 Или можете вруную отредактировать конфиг располагающийся в папке ./root/ArcherAX1500v120220401131n/ori-backup-user-config.xml.  
 И загрузить на роутер следующей коммандой:
