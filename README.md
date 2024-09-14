@@ -1,9 +1,9 @@
+# English version
+https://github.com/gmaxus/TP-Link-Archer-AX1500-telnet-root/blob/main/README-eng.md
+
 # Получение root прав на роутере TP-Link Archer V.1 AX10 (AX1500)
 
 <img src="https://raw.github.com/gmaxus/TP-Link-Archer-AX1500-telnet-root/main/img/router.jpeg" width=70% height=70%>
-
-# English version
-https://github.com/gmaxus/TP-Link-Archer-AX1500-telnet-root/blob/main/README-eng.md
 
 ## Даунгрейд прошивки
 
