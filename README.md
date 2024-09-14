@@ -2,6 +2,9 @@
 
 <img src="https://raw.github.com/gmaxus/TP-Link-Archer-AX1500-telnet-root/main/img/router.jpeg" width=70% height=70%>
 
+# English version
+https://github.com/gmaxus/TP-Link-Archer-AX1500-telnet-root/blob/main/README-eng.md
+
 ## Даунгрейд прошивки
 
 <img src="https://raw.github.com/gmaxus/TP-Link-Archer-AX1500-telnet-root/main/img/firmware.jpeg" width=70% height=70%>
