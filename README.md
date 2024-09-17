@@ -22,6 +22,10 @@ git clone https://github.com/gmaxus/TP-Link-Archer-AX1500-telnet-root.git
 ```text
 cd TP-Link-Archer-AX1500-telnet-root/root
 ```
+Скачайте необходимые библиотеки
+```text
+pip install requests pycryptodome
+```
 
 Загрузите готовый конфиг следующей коммандой, где 192.168.0.1 замените на IP адрес и password замените на пароль вашего роутера
 ```text
