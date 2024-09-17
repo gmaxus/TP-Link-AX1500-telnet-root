@@ -15,7 +15,7 @@ https://github.com/gmaxus/TP-Link-Archer-AX1500-telnet-root/blob/main/README-eng
 ## Получение root прав
 #### Копирование репозитория
 ```text
-git clone git@github.com:gmaxus/TP-Link-Archer-AX1500-telnet-root.git
+git clone https://github.com/gmaxus/TP-Link-Archer-AX1500-telnet-root.git
 ```
 
 #### Следующие действия будут происходить в папке root
